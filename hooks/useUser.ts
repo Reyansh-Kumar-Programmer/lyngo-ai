@@ -1,0 +1,1 @@
+export const useUser = () => ({ user: null, isLoading: false });
